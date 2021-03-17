@@ -31,13 +31,13 @@ export default makeStyles((theme) => ({
     backgroundColor: "#1e0a0d!important",
   },
   container: {
-    width: "16.6vw",
-    minWidth: "160px",
-    height: "250px",
-    color: "white",
-    margin: "10px 0",
-    display: "flex",
-    justifyContent: "center",
+    width: "16.6vw!important",
+    minWidth: "160px!important",
+    height: "250px!important",
+    color: "white!important",
+    margin: "10px 0!important",
+    display: "flex!important",
+    justifyContent: "center!important",
   },
   logo: {
     margin: "auto 20px",
@@ -104,9 +104,9 @@ export default makeStyles((theme) => ({
     margin: "0 auto",
   },
   icons: {
-    margin: "0 3px",
+    margin: "0 3px!important",
   },
   address: {
-    margin: "10px 0",
+    margin: "10px 0!important",
   },
 }));
