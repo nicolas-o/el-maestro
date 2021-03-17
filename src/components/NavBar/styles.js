@@ -18,12 +18,12 @@ export default makeStyles((theme) => ({
   },
   toolbar: theme.mixins.toolbar,
   drawerPaperLg: {
-    width: "16.6vw",
-    minWidth: "160px",
+    width: "16.6vw!important",
+    minWidth: "160px!important",
     backgroundColor: "#1e0a0d!important",
-    borderRight: "white solid",
-    position: "absolute",
-    height: "100vh",
+    borderRight: "white solid!important",
+    position: "absolute!important",
+    height: "100vh!important",
   },
   drawerPaper: {
     width: "100vw",

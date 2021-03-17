@@ -48,7 +48,7 @@ export default makeStyles((theme) => ({
   arrow: {
     cursor: "pointer",
     marginTop: "200px",
-    fontSize: 100,
+    fontSize: "100px!important",
     color: "white",
   },
 }));
