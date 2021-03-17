@@ -70,7 +70,7 @@ export default makeStyles((theme) => ({
     color: "#ffffff",
     textAlign: "Center!important",
     "&:hover": {
-      background: "rgba(0,0,0,0.8)",
+      background: "rgba(0,0,0,0.8)!important",
     },
   },
   socialMediaContainer: {
